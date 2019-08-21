@@ -1,11 +1,31 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  restaurant: one
-  guest_name: MyString
-  reserved_at: 2019-08-21 10:28:16
+  restaurant: lower
+  guest_name: 岩瀬 好近
+  reserved_at: 2019-08-01 13:00:00
 
 two:
-  restaurant: two
-  guest_name: MyString
-  reserved_at: 2019-08-21 10:28:16
+  restaurant: lower
+  guest_name: 戸田 良市
+  reserved_at: 2019-08-01 14:00:00
+
+three:
+  restaurant: higher
+  guest_name: 森 信好
+  reserved_at: 2019-08-01 15:00:00
+
+four:
+  restaurant: higher
+  guest_name: 平山 利次
+  reserved_at: 2019-08-01 11:00:00
+
+five:
+  restaurant: lower
+  guest_name: 金城 義勝
+  reserved_at: 2019-08-01 18:00:00
+
+six:
+  restaurant: higher
+  guest_name: 関 知実
+  reserved_at: 2019-08-01 19:00:00

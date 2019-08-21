@@ -1,11 +1,36 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  restaurant: one
-  category: one
-  name: MyString
+  restaurant: lower
+  category: japanese
+  name: 焼き魚コース
 
 two:
-  restaurant: two
-  category: two
-  name: MyString
+  restaurant: lower
+  category: japanese
+  name: 串カツ三昧
+
+three:
+  restaurant: lower
+  category: japanese
+  name: 寿司セット
+
+four:
+  restaurant: lower
+  category: italian
+  name: コラボピザ
+
+five:
+  restaurant: higher
+  category: italian
+  name: 高級ピッツア
+
+six:
+  restaurant: higher
+  category: italian
+  name: 色とりどりのパスタ
+
+seven:
+  restaurant: higher
+  category: italian
+  name: イタリアンフルコース
